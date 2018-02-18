@@ -3,7 +3,6 @@ matplotlib
 pandas
 khmer
 https://github.com/dib-lab/sourmash/archive/master.zip
-Cython
 mypy
 screed
 pytest
