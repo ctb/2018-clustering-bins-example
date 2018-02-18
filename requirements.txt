@@ -6,7 +6,6 @@ https://github.com/dib-lab/sourmash/archive/master.zip
 mypy
 screed
 pytest
-https://github.com/dib-lab/pybbhash/archive/master.zip
 snakemake
 seaborn
 hdbscan
